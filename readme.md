@@ -1,3 +1,15 @@
+**Problem Statement :**
+
+#1. Write a program to read the content of any of the below website and all its sub pages and perform following actions:
+
+1. Parse all the pages and sub pages of News, Sports and Business section
+2. Extract the content, Image and Links
+3. Dump the Content, Image and Links into the respective mongo collections
+
+Website used for this project is:
+https://www.firstpost.com/
+
+
 **Instructions to run the Scrapper-Project:**
 
 1. Download the zip file and extract it.
